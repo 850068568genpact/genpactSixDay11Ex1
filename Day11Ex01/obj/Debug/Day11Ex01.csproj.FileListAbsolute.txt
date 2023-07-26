@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\obj\Debug\Day11Ex01.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\obj\Debug\Day11Ex01.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\obj\Debug\Day11Ex01.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\bin\Debug\Day11Ex01.exe.config
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\bin\Debug\Day11Ex01.exe
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\bin\Debug\Day11Ex01.pdb
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\obj\Debug\Day11Ex01.exe
+C:\DotnetTraining\Day11\Day11Ex01\Day11Ex01\obj\Debug\Day11Ex01.pdb
